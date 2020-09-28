@@ -1,5 +1,6 @@
 body{
-    margin: 0px;
-    height: 50vh;
-    background-color: blue;
+    margin: 100px;
+    background-color: red;
+    width: 100vh;
+    color: aqua;
 }
