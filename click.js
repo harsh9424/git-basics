@@ -1,1 +1,2 @@
-var clickButton = "new button";
+var clickButton = "new delete";
+var click = "click";
