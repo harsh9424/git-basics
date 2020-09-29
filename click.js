@@ -1,1 +1,2 @@
-var clickButton = "new button";
+var clickButton = "new button changes";
+var closeButton = "button closed";
